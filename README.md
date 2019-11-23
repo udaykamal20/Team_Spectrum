@@ -11,3 +11,14 @@ The details of our approach and performance can be found in the 'Report.pdf' fil
 
 The following procedures are to be followed to reporduce the submitted results:
 
+First install the required libraries by running 'pip install -r requirements.txt' on the terminal.
+
+To run our model on the test dataset, one have to must modify the following paths in the 'test_final.py' script, whcich includes:
+
+*model_weightpath = '/Recurrent3D_DenseUnet_model.h5'
+*test_data_folder_path = '/VIP_CUP18_TestData/' (Folder path where all the val/test patients are located)
+*csvfile_savepath = '/Saved_Result/' (Folder path where the generated csv file will be saved)
+*test_mask_save_path = '/Saved_Result/' (Folder path where the generated binary masks for each test patient will be saved)
+*temporary_path = '/Temporary_Folder/' (Path of the Directory where the temporarily generated images will be saved)
+
+
