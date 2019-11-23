@@ -1,0 +1,1 @@
+# VIP_CUP_2018_Team_Spectrum-Lung_Cancer_Radiomics-Lung_Tumor_Segmentation
