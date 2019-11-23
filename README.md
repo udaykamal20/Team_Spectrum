@@ -1,5 +1,5 @@
 # VIP_CUP_2018_Team_Spectrum-Lung_Cancer_Radiomics-Lung_Tumor_Segmentation
-This respiratory contains the codes and submission package of the Team Spectrum, the first runner up team of IEEE Video and Image Processing Cup 2018. The task was to come up with a lung tumor region segmentation algorithm from volume CT database.
+This repository contains the codes and submission package of the Team Spectrum, the first runner up team of IEEE Video and Image Processing Cup 2018. The task was to come up with a lung tumor region segmentation algorithm from volume CT database.
 
 ![alt text](https://github.com/udday2014/VIP_CUP_2018_Team_Spectrum-Lung_Cancer_Radiomics-Tumor_Region_Segmentation/blob/master/VIP_CUP_everyone.jpg)
 
